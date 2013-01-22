@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="src2"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/java/mysql connector/mysql-connector-java-5.0.8-bin.jar"/>
+	<classpathentry kind="lib" path="C:/java/Utilities/Joda Time/joda-time.jar" sourcepath="C:/java/Utilities/Joda Time/src/main/java/org/joda/time">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/java/Utilities/Joda Time/src/site/xdoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="/CreativeHorseRacingInformationSystem"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
